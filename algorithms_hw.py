@@ -1,3 +1,4 @@
+
 list_numbers = list(map(int, input("Введите последовательность чисел через пробел: ").split()))
 
 
